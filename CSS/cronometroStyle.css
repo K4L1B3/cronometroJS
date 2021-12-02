@@ -1,0 +1,84 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+}
+
+
+body{
+   background-color: rgb(17, 17, 17);
+}
+
+
+
+.main {
+
+
+display: flex;
+align-items: center;      
+flex-direction: column;
+flex-wrap: wrap;
+padding-top: 350px;
+
+} 
+
+.temporizador {
+   
+   font-family: 'Arial', sans-serif;
+   font-size: 5rem;
+   color: aliceblue;
+   letter-spacing: 25px;
+
+}
+
+
+.botoes {
+
+  padding-top: 50px;
+
+}
+
+.BotaoA {
+
+   margin: 10px;
+   font-family: 'Outfit', sans-serif;
+   font-size: larger;
+   color: black;
+   font-weight: 300;
+   width: 200px;
+   height: 50px;
+   border-radius: 7px;
+   border-color: white;
+   background-color:rgb(255, 255, 255);
+
+}
+
+.BotaoB {
+
+   margin: 10px;
+   font-family: 'Outfit', sans-serif;
+   font-size: larger;
+   color: black;
+   font-weight: 300;
+   width: 200px;
+   height: 50px;
+   border-radius: 7px;
+   border-color: white;
+   background-color:rgb(255, 255, 255);
+
+}
+
+.BotaoC {
+
+   margin: 10px;
+   font-family: 'Outfit', sans-serif;
+   font-size: larger;
+   color: black;
+   font-weight: 300;
+   width: 200px;
+   height: 50px;
+   border-radius: 7px;
+   border-color: white;
+   background-color:rgb(255, 255, 255);
+
+}
