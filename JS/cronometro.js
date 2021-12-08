@@ -33,7 +33,7 @@ function reiniciar(){
     document.getElementById('hora').innerHTML = '00';
     document.getElementById('minutos').innerHTML = '00';
     document.getElementById('segundos').innerHTML = '00';
-    document.getElementById('milisegundos').innerHTML = '00';
+    document.getElementById('milisegundos').innerHTML = '000';
 }
 
 function timer(){
